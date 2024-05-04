@@ -76,3 +76,4 @@ song.ontimeupdate = function() {
     video.pause();
   }
 };
+//vivek
